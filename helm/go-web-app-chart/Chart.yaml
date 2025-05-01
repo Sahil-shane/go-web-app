@@ -1,6 +1,7 @@
 apiVersion: v2
 name: go-web-app-chart
 description: A Helm chart for Kubernetes
+# This is the name of the chart. It should be unique within the repository.
 
 # A chart can be either an 'application' or a 'library' chart.
 #
